@@ -14,7 +14,7 @@ Basta configurar a API como dependência do seu projeto no arquivo pom.xml:
   <!-- In Project repository -->
   <repositories>
     <repository>
-      <id>npi-core-api</id>
+      <id>npi-mvn-repo</id>
       <url>http://npi-ufc-qxd.github.io/npi-mvn-repo/</url>
     </repository>
   </repositories>
@@ -30,18 +30,4 @@ Basta configurar a API como dependência do seu projeto no arquivo pom.xml:
   </dependencies>
   ...
 </project>
-```
-
-
-```xml
-	<repositories>
-		<repository>
-			<id>npi-core-api</id>
-			<url>http://npi-ufc-qxd.github.io/npi-mvn-repo/</url>
-			<snapshots>
-				<enabled>true</enabled>
-				<updatePolicy>always</updatePolicy>
-			</snapshots>
-		</repository>
-	</repositories>
 ```
