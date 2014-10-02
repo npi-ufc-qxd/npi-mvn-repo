@@ -1,7 +1,7 @@
 NPI Maven Repository
 ====================
 
-Dependências atualmente disponíveis nesse repositório Maven:
+Dependências atualmente disponíveis neste repositório Maven:
 - npi-core-api
 
 
