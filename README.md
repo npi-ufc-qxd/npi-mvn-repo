@@ -24,7 +24,7 @@ Basta configurar a API como dependência do seu projeto no arquivo pom.xml:
     <dependency>
       <groupId>br.ufc.quixada.npi</groupId>
       <artifactId>npi-core-api</artifactId>
-      <version>0.0.6</version>
+      <version>0.0.8</version>
     </dependency>
     ...
   </dependencies>
